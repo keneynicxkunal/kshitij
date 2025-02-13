@@ -155,54 +155,6 @@
 
 <!-- vendor section ends -->
 
-<!-- client section starts  -->
-<!-- 
-<section class="clients" id="clients">
-
-    <div class="heading">
-        <h1>our previous year team</h1>
-        <img src="images/header-img.png" alt="">
-    </div>
-
-    <div class="row">
-
-        <div class="box-container">
-            <div class="box">
-                <img src="images/client-1.jpg" alt="">
-                <div class="info">
-                    <h3>01. shakib & shishir</h3>
-                    <p> <i class="fas fa-quote-left"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet illo aut repudiandae nihil quidem perspiciatis natus placeat, inventore, vitae, quia totam ad dolores velit. Cumque, alias ullam. Nihil, aperiam hic! <i class="fas fa-quote-right"></i> </p>
-                </div>
-            </div>
-            <div class="box">
-                <img src="images/client-2.jpg" alt="">
-                <div class="info">
-                    <h3>02. nasir & tamima</h3>
-                    <p> <i class="fas fa-quote-left"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet illo aut repudiandae nihil quidem perspiciatis natus placeat, inventore, vitae, quia totam ad dolores velit. Cumque, alias ullam. Nihil, aperiam hic! <i class="fas fa-quote-right"></i> </p>
-                </div>
-            </div>
-        </div>
-
-        <img src="images/divider.png" class="divider" alt="">
-
-        <div class="box-container">
-            <div class="box">
-                <div class="info">
-                    <h3>03. tamim & ayesha</h3>
-                    <p> <i class="fas fa-quote-left"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet illo aut repudiandae nihil quidem perspiciatis natus placeat, inventore, vitae, quia totam ad dolores velit. Cumque, alias ullam. Nihil, aperiam hic! <i class="fas fa-quote-right"></i> </p>
-                </div>
-                <img src="images/client-3.jpg" alt="">
-            </div>
-            <div class="box">
-                <div class="info">
-                    <h3>04. mushfiqur & Jannatul Mondi</h3>
-                    <p> <i class="fas fa-quote-left"></i> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet illo aut repudiandae nihil quidem perspiciatis natus placeat, inventore, vitae, quia totam ad dolores velit. Cumque, alias ullam. Nihil, aperiam hic! <i class="fas fa-quote-right"></i> </p>
-                </div>
-                <img src="images/client-4.jpg" alt="">
-            </div>
-        </div>
-
-    </div>
 
 </section> -->
 
